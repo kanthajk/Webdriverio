@@ -1,0 +1,107 @@
+{
+  "uid" : "c22465e22b5f308a",
+  "name" : "Then I expect key series module should be displayed",
+  "fullName" : "CricinfoHomePage LHS and RHS tests: Verify key series module displayed.Then I expect key series module should be displayed",
+  "historyId" : "92afda7d55828fb44410b184355e3705",
+  "time" : {
+    "start" : 1578917829441,
+    "stop" : 0,
+    "duration" : -1578917829441
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "unknown",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify key series module displayed"
+  }, {
+    "name" : "testClass",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify key series module displayed"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I expect key series module should be displayed"
+  }, {
+    "name" : "package",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify key series module displayed"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cb8980741096eb6b",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1578917770300,
+        "stop" : 0,
+        "duration" : -1578917770300
+      }
+    }, {
+      "uid" : "5ae2cd2b11fb6bf9",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1578917638024,
+        "stop" : 0,
+        "duration" : -1578917638024
+      }
+    }, {
+      "uid" : "14089fdc39349686",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1578917562586,
+        "stop" : 0,
+        "duration" : -1578917562586
+      }
+    }, {
+      "uid" : "fe95a54aa41a420d",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1578917442814,
+        "stop" : 0,
+        "duration" : -1578917442814
+      }
+    }, {
+      "uid" : "73766d3e7521b7ce",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1578913126745,
+        "stop" : 0,
+        "duration" : -1578913126745
+      }
+    }, {
+      "uid" : "fbf044fb38d48c31",
+      "status" : "broken",
+      "statusDetails" : "Step \"Then I expect key series module should be displayed\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1578911635853,
+        "stop" : 1578911635854,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c22465e22b5f308a.json",
+  "parameterValues" : [ "chrome" ]
+}

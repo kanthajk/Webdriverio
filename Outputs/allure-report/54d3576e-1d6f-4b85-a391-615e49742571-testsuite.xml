@@ -1,0 +1,75 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1578917562574' stop='1578917562578'>
+    <name>CricinfoHomePage LHS and RHS tests: Verify Cricinfo Home page title</name>
+    <title>CricinfoHomePage LHS and RHS tests: Verify Cricinfo Home page title</title>
+    <test-cases>
+        <test-case start='1578917562575' status='passed' stop='1578917562576'>
+            <name>Hook</name>
+            <title>Hook</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1578917562577' status='undefined'>
+            <name>Given I'm a Cricinfo user and landed on the cricinfo home page</name>
+            <title>Given I'm a Cricinfo user and landed on the cricinfo home page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1578917562577' status='pending' stop='1578917562577'>
+            <name>Given I'm a Cricinfo user and landed on the cricinfo home page (undefined step)</name>
+            <title>Given I'm a Cricinfo user and landed on the cricinfo home page (undefined step)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1578917562577' status='pending' stop='1578917562577'>
+            <name>Then I expect the title should match</name>
+            <title>Then I expect the title should match</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1578917562578' status='passed' stop='1578917562578'>
+            <name>Hook</name>
+            <title>Hook</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

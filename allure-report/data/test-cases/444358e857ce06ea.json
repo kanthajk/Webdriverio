@@ -1,0 +1,112 @@
+{
+  "uid" : "444358e857ce06ea",
+  "name" : "Then I expect the title should match",
+  "fullName" : "CricinfoHomePage LHS and RHS tests: Verify Cricinfo Home page title.Then I expect the title should match",
+  "historyId" : "959dabdf0342410d82271ea5ef7af7bf",
+  "time" : {
+    "start" : 1578911678973,
+    "stop" : 1578911679930,
+    "duration" : 957
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "expect is not defined",
+  "statusTrace" : "ReferenceError: expect is not defined\n                    at World.<anonymous> (/Users/kantharj/Documents/KANTHA/ESPN/KANTHA/LEARNING/WebdriverIO-V5-Cucumber/test/stepDefinitions/HomepageTest.js:16:3)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "expect is not defined",
+    "statusTrace" : "ReferenceError: expect is not defined\n                    at World.<anonymous> (/Users/kantharj/Documents/KANTHA/ESPN/KANTHA/LEARNING/WebdriverIO-V5-Cucumber/test/stepDefinitions/HomepageTest.js:16:3)",
+    "steps" : [ {
+      "name" : "GET /session/:sessionId/title",
+      "time" : {
+        "start" : 1578911678973,
+        "stop" : 1578911678977,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "82b46be0ca7e66a6",
+        "name" : "Response",
+        "source" : "82b46be0ca7e66a6.json",
+        "type" : "application/json",
+        "size" : 92
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/screenshot",
+      "time" : {
+        "start" : 1578911678977,
+        "stop" : 1578911679925,
+        "duration" : 948
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "652049c65bedf5ea",
+        "name" : "Screenshot",
+        "source" : "652049c65bedf5ea.png",
+        "type" : "image/png",
+        "size" : 2098919
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify Cricinfo Home page title"
+  }, {
+    "name" : "testClass",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify Cricinfo Home page title"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I expect the title should match"
+  }, {
+    "name" : "package",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify Cricinfo Home page title"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "444358e857ce06ea.json",
+  "parameterValues" : [ "chrome" ]
+}

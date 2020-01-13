@@ -1,0 +1,108 @@
+{
+  "uid" : "8a8bdaa900a9ac55",
+  "name" : "Then I expect the title should match",
+  "fullName" : "CricinfoHomePage LHS and RHS tests: Verify Cricinfo Home page title.Then I expect the title should match",
+  "historyId" : "959dabdf0342410d82271ea5ef7af7bf",
+  "time" : {
+    "start" : 1578903805820,
+    "stop" : 1578903806686,
+    "duration" : 866
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "GET /session/:sessionId/title",
+      "time" : {
+        "start" : 1578903805820,
+        "stop" : 1578903805825,
+        "duration" : 5
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "1a390f7caf7e4c52",
+        "name" : "Response",
+        "source" : "1a390f7caf7e4c52.json",
+        "type" : "application/json",
+        "size" : 92
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/screenshot",
+      "time" : {
+        "start" : 1578903805825,
+        "stop" : 1578903806682,
+        "duration" : 857
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "802180a52e847ce9",
+        "name" : "Screenshot",
+        "source" : "802180a52e847ce9.png",
+        "type" : "image/png",
+        "size" : 1263948
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify Cricinfo Home page title"
+  }, {
+    "name" : "testClass",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify Cricinfo Home page title"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I expect the title should match"
+  }, {
+    "name" : "package",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify Cricinfo Home page title"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8a8bdaa900a9ac55.json",
+  "parameterValues" : [ "chrome" ]
+}

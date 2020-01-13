@@ -1,0 +1,87 @@
+{
+  "uid" : "c88a447690f27efb",
+  "name" : "When I landed to the cricinfo home page",
+  "fullName" : "CricinfoHomePage LHS and RHS tests: Verify Cricinfo Home page title.When I landed to the cricinfo home page",
+  "historyId" : "857bf52a331feea55bf0ca3cf1c985a0",
+  "time" : {
+    "start" : 1578904244836,
+    "stop" : 1578904245700,
+    "duration" : 864
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "GET /session/:sessionId/screenshot",
+      "time" : {
+        "start" : 1578904244836,
+        "stop" : 1578904245696,
+        "duration" : 860
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7bdd87972ea5886f",
+        "name" : "Screenshot",
+        "source" : "7bdd87972ea5886f.png",
+        "type" : "image/png",
+        "size" : 1830819
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify Cricinfo Home page title"
+  }, {
+    "name" : "testClass",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify Cricinfo Home page title"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I landed to the cricinfo home page"
+  }, {
+    "name" : "package",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify Cricinfo Home page title"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c88a447690f27efb.json",
+  "parameterValues" : [ "chrome" ]
+}

@@ -1,0 +1,135 @@
+{
+  "uid" : "eb570c01531be9a1",
+  "name" : "When I landed to the cricinfo home page",
+  "fullName" : "CricinfoHomePage LHS and RHS tests: Verify Cricinfo Home page title.When I landed to the cricinfo home page",
+  "historyId" : "857bf52a331feea55bf0ca3cf1c985a0",
+  "time" : {
+    "start" : 1578905878819,
+    "stop" : 1578905885003,
+    "duration" : 6184
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/window/rect",
+      "time" : {
+        "start" : 1578905878820,
+        "stop" : 1578905878931,
+        "duration" : 111
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d555bce77d4d2293",
+        "name" : "Request",
+        "source" : "d555bce77d4d2293.json",
+        "type" : "application/json",
+        "size" : 63
+      }, {
+        "uid" : "fbe215d471671b25",
+        "name" : "Response",
+        "source" : "fbe215d471671b25.json",
+        "type" : "application/json",
+        "size" : 58
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1578905878933,
+        "stop" : 1578905884384,
+        "duration" : 5451
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5f6470e6e4d6cbc4",
+        "name" : "Request",
+        "source" : "5f6470e6e4d6cbc4.json",
+        "type" : "application/json",
+        "size" : 53
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/screenshot",
+      "time" : {
+        "start" : 1578905884384,
+        "stop" : 1578905885002,
+        "duration" : 618
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5641dd8d2e9f8503",
+        "name" : "Screenshot",
+        "source" : "5641dd8d2e9f8503.png",
+        "type" : "image/png",
+        "size" : 547163
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify Cricinfo Home page title"
+  }, {
+    "name" : "testClass",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify Cricinfo Home page title"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I landed to the cricinfo home page"
+  }, {
+    "name" : "package",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify Cricinfo Home page title"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eb570c01531be9a1.json",
+  "parameterValues" : [ "chrome" ]
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "32876af215c5fe19",
+  "name" : "Given I'm a Cricinfo user",
+  "fullName" : "CricinfoHomePage LHS and RHS tests: Verify key series module displayed.Given I'm a Cricinfo user",
+  "historyId" : "bd7171bf82175f60e7eece650525c771",
+  "time" : {
+    "start" : 1578913126744,
+    "stop" : 1578913126744,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify key series module displayed"
+  }, {
+    "name" : "testClass",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify key series module displayed"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I'm a Cricinfo user"
+  }, {
+    "name" : "package",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify key series module displayed"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "18be59d63465d7a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578911632682,
+        "stop" : 1578911633574,
+        "duration" : 892
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "32876af215c5fe19.json",
+  "parameterValues" : [ "chrome" ]
+}

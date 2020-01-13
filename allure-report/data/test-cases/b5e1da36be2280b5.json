@@ -1,0 +1,46 @@
+{
+  "uid" : "b5e1da36be2280b5",
+  "name" : "Then I expect key series module should be displayed (undefined step)",
+  "fullName" : "CricinfoHomePage LHS and RHS tests: Verify key series module displayed.Then I expect key series module should be displayed (undefined step)",
+  "historyId" : "7cfa0d9802f1d9a2eae669720a27a76e",
+  "time" : {
+    "start" : 1578913126745,
+    "stop" : 1578913126745,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify key series module displayed"
+  }, {
+    "name" : "testClass",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify key series module displayed"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I expect key series module should be displayed (undefined step)"
+  }, {
+    "name" : "package",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify key series module displayed"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b5e1da36be2280b5.json",
+  "parameterValues" : [ ]
+}

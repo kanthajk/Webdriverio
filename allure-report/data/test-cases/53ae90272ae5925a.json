@@ -1,0 +1,392 @@
+{
+  "uid" : "53ae90272ae5925a",
+  "name" : "Then I expect the title should match",
+  "fullName" : "CricinfoHomePage LHS and RHS tests: Verify Cricinfo Home page title.Then I expect the title should match",
+  "historyId" : "959dabdf0342410d82271ea5ef7af7bf",
+  "time" : {
+    "start" : 1578918641870,
+    "stop" : 1578918642917,
+    "duration" : 1047
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "GET /session/:sessionId/title",
+      "time" : {
+        "start" : 1578918641870,
+        "stop" : 1578918641874,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "1017011d851b6513",
+        "name" : "Response",
+        "source" : "1017011d851b6513.json",
+        "type" : "application/json",
+        "size" : 92
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/screenshot",
+      "time" : {
+        "start" : 1578918641875,
+        "stop" : 1578918642912,
+        "duration" : 1037
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a855cbd57694c264",
+        "name" : "Screenshot",
+        "source" : "a855cbd57694c264.png",
+        "type" : "image/png",
+        "size" : 2434091
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify Cricinfo Home page title"
+  }, {
+    "name" : "testClass",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify Cricinfo Home page title"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I expect the title should match"
+  }, {
+    "name" : "package",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify Cricinfo Home page title"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4c28b0567c241a7b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578918552161,
+        "stop" : 1578918553201,
+        "duration" : 1040
+      }
+    }, {
+      "uid" : "751c2ec511c1c97e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578918429188,
+        "stop" : 1578918430214,
+        "duration" : 1026
+      }
+    }, {
+      "uid" : "f89638f095a5624e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578918366033,
+        "stop" : 1578918367095,
+        "duration" : 1062
+      }
+    }, {
+      "uid" : "8334e3dd1e6ccedb",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1578918314980,
+        "stop" : 1578918314980,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "23a95a1a638a854c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1578917829435,
+        "stop" : 1578917829435,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "eca34e6ddb50755a",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1578917770292,
+        "stop" : 1578917770292,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b5d9763b6f2894c5",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1578917638017,
+        "stop" : 1578917638017,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a77ba2fb5382acad",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1578917562577,
+        "stop" : 1578917562577,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d1a0aadf15f76d2",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1578917442805,
+        "stop" : 1578917442806,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "2c54bad95559d963",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1578913126734,
+        "stop" : 1578913126734,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b76e5cb8d7e2328e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578912185507,
+        "stop" : 1578912186437,
+        "duration" : 930
+      }
+    }, {
+      "uid" : "3e8717b079477ad6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578912164330,
+        "stop" : 1578912165244,
+        "duration" : 914
+      }
+    }, {
+      "uid" : "309d5c0af08230b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578911885956,
+        "stop" : 1578911886907,
+        "duration" : 951
+      }
+    }, {
+      "uid" : "444358e857ce06ea",
+      "status" : "broken",
+      "statusDetails" : "expect is not defined",
+      "time" : {
+        "start" : 1578911678973,
+        "stop" : 1578911679930,
+        "duration" : 957
+      }
+    }, {
+      "uid" : "618617d7f3ae2186",
+      "status" : "broken",
+      "statusDetails" : "expect is not defined",
+      "time" : {
+        "start" : 1578911631762,
+        "stop" : 1578911632675,
+        "duration" : 913
+      }
+    }, {
+      "uid" : "a3907795c6d22e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578911019735,
+        "stop" : 1578911020606,
+        "duration" : 871
+      }
+    }, {
+      "uid" : "94d8187c111aa071",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578910885044,
+        "stop" : 1578910885957,
+        "duration" : 913
+      }
+    }, {
+      "uid" : "94bc70810efc27d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578907148093,
+        "stop" : 1578907149053,
+        "duration" : 960
+      }
+    }, {
+      "uid" : "a391e8e1d1290061",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1578907093148,
+        "stop" : 1578907093149,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "51f25b04e7c0226f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578906038190,
+        "stop" : 1578906039187,
+        "duration" : 997
+      }
+    }, {
+      "uid" : "41731241696ceed7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578905885003,
+        "stop" : 1578905885545,
+        "duration" : 542
+      }
+    }, {
+      "uid" : "ae5ee4e2d1ce0d7c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578905773567,
+        "stop" : 1578905774029,
+        "duration" : 462
+      }
+    }, {
+      "uid" : "978c6f9dded19795",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578905408069,
+        "stop" : 1578905409022,
+        "duration" : 953
+      }
+    }, {
+      "uid" : "f4cab0a047ad341d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578904245700,
+        "stop" : 1578904246544,
+        "duration" : 844
+      }
+    }, {
+      "uid" : "141b40855c22996f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578904004160,
+        "stop" : 1578904005141,
+        "duration" : 981
+      }
+    }, {
+      "uid" : "8a8bdaa900a9ac55",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578903805820,
+        "stop" : 1578903806686,
+        "duration" : 866
+      }
+    }, {
+      "uid" : "5c9e78a9c5646996",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578903670470,
+        "stop" : 1578903671219,
+        "duration" : 749
+      }
+    }, {
+      "uid" : "b2c4a7f84e2163ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578903587936,
+        "stop" : 1578903588696,
+        "duration" : 760
+      }
+    }, {
+      "uid" : "8dc013e1e56d1148",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578901616626,
+        "stop" : 1578901616636,
+        "duration" : 10
+      }
+    }, {
+      "uid" : "ce139379af7ae3c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578901396552,
+        "stop" : 1578901396557,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "b359bee55aea481c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578901063437,
+        "stop" : 1578901063445,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "c9c4c4588424a0a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578901012495,
+        "stop" : 1578901012500,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "bd6cc6f3ba6475f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578900858691,
+        "stop" : 1578900858696,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "8929baa0a637f7e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578900760793,
+        "stop" : 1578900760801,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "eb8cc287f7c0fdab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578900407796,
+        "stop" : 1578900407801,
+        "duration" : 5
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "53ae90272ae5925a.json",
+  "parameterValues" : [ "chrome" ]
+}

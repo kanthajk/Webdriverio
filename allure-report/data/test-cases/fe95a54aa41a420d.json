@@ -1,0 +1,56 @@
+{
+  "uid" : "fe95a54aa41a420d",
+  "name" : "Then I expect key series module should be displayed",
+  "fullName" : "CricinfoHomePage LHS and RHS tests: Verify key series module displayed.Then I expect key series module should be displayed",
+  "historyId" : "92afda7d55828fb44410b184355e3705",
+  "time" : {
+    "start" : 1578917442814,
+    "stop" : 0,
+    "duration" : -1578917442814
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "unknown",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify key series module displayed"
+  }, {
+    "name" : "testClass",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify key series module displayed"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I expect key series module should be displayed"
+  }, {
+    "name" : "package",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify key series module displayed"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fe95a54aa41a420d.json",
+  "parameterValues" : [ "chrome" ]
+}

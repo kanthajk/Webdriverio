@@ -1,0 +1,182 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "CricinfoHomePage LHS and RHS tests: Verify key series module displayed",
+    "children" : [ {
+      "name" : "When I landed to the cricinfo home page",
+      "uid" : "86b655f4b0a0e21f",
+      "parentUid" : "9269f0e7b398d0c397842f50a4486e44",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1578913126744,
+        "stop" : 1578913126745,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I'm a Cricinfo user",
+      "uid" : "32876af215c5fe19",
+      "parentUid" : "9269f0e7b398d0c397842f50a4486e44",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1578913126744,
+        "stop" : 1578913126744,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I'm a Cricinfo user and landed on the cricinfo home page",
+      "uid" : "c2a2d4b09e378da8",
+      "parentUid" : "9269f0e7b398d0c397842f50a4486e44",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1578917829441,
+        "stop" : 0,
+        "duration" : -1578917829441
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I expect key series module should be displayed",
+      "uid" : "c22465e22b5f308a",
+      "parentUid" : "9269f0e7b398d0c397842f50a4486e44",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1578917829441,
+        "stop" : 0,
+        "duration" : -1578917829441
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I'm a Cricinfo user and landed on the cricinfo home page (undefined step)",
+      "uid" : "7773fada1d7b85b9",
+      "parentUid" : "9269f0e7b398d0c397842f50a4486e44",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1578917829441,
+        "stop" : 1578917829441,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Hook",
+      "uid" : "4dd6f37eb6245ce0",
+      "parentUid" : "9269f0e7b398d0c397842f50a4486e44",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578917829442,
+        "stop" : 1578917829442,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I expect key series module should be displayed (undefined step)",
+      "uid" : "d59a3d100b5b8f46",
+      "parentUid" : "9269f0e7b398d0c397842f50a4486e44",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1578917829442,
+        "stop" : 1578917829442,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "9269f0e7b398d0c397842f50a4486e44"
+  }, {
+    "name" : "CricinfoHomePage LHS and RHS tests: Verify Cricinfo Home page title",
+    "children" : [ {
+      "name" : "Given I'm a Cricinfo user and landed on the cricinfo home page",
+      "uid" : "ddc3822bc44acafc",
+      "parentUid" : "84b9b33bf9161ed405749a7e0ca572dc",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1578918314980,
+        "stop" : 0,
+        "duration" : -1578918314980
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Given I'm a Cricinfo user and landed on the cricinfo home page (undefined step)",
+      "uid" : "3eaa5d2f60583cd4",
+      "parentUid" : "84b9b33bf9161ed405749a7e0ca572dc",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1578918314980,
+        "stop" : 1578918314980,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Given I'm a Cricinfo user",
+      "uid" : "5c70bcdf97c3ac3",
+      "parentUid" : "84b9b33bf9161ed405749a7e0ca572dc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578918635538,
+        "stop" : 1578918635906,
+        "duration" : 368
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "When I landed to the cricinfo home page",
+      "uid" : "1068d977c8a91cdd",
+      "parentUid" : "84b9b33bf9161ed405749a7e0ca572dc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578918635906,
+        "stop" : 1578918641870,
+        "duration" : 5964
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Then I expect the title should match",
+      "uid" : "53ae90272ae5925a",
+      "parentUid" : "84b9b33bf9161ed405749a7e0ca572dc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578918641870,
+        "stop" : 1578918642917,
+        "duration" : 1047
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Hook",
+      "uid" : "a7612d258535a751",
+      "parentUid" : "84b9b33bf9161ed405749a7e0ca572dc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578918642918,
+        "stop" : 1578918642918,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "84b9b33bf9161ed405749a7e0ca572dc"
+  } ]
+}

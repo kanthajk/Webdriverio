@@ -1,0 +1,98 @@
+{
+  "uid" : "ddc3822bc44acafc",
+  "name" : "Given I'm a Cricinfo user and landed on the cricinfo home page",
+  "fullName" : "CricinfoHomePage LHS and RHS tests: Verify Cricinfo Home page title.Given I'm a Cricinfo user and landed on the cricinfo home page",
+  "historyId" : "bced7d964cae69ae4a4094277c30bf20",
+  "time" : {
+    "start" : 1578918314980,
+    "stop" : 0,
+    "duration" : -1578918314980
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "unknown",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify Cricinfo Home page title"
+  }, {
+    "name" : "testClass",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify Cricinfo Home page title"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I'm a Cricinfo user and landed on the cricinfo home page"
+  }, {
+    "name" : "package",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify Cricinfo Home page title"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "eccd8463484a7739",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1578917829435,
+        "stop" : 0,
+        "duration" : -1578917829435
+      }
+    }, {
+      "uid" : "c7ea24edc8164761",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1578917770292,
+        "stop" : 0,
+        "duration" : -1578917770292
+      }
+    }, {
+      "uid" : "1d9b4d062711ddbf",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1578917638016,
+        "stop" : 0,
+        "duration" : -1578917638016
+      }
+    }, {
+      "uid" : "846ccdfe5405415b",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1578917562577,
+        "stop" : 0,
+        "duration" : -1578917562577
+      }
+    }, {
+      "uid" : "72668f8a350469ea",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1578917442804,
+        "stop" : 0,
+        "duration" : -1578917442804
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ddc3822bc44acafc.json",
+  "parameterValues" : [ "chrome" ]
+}

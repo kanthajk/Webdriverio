@@ -1,0 +1,131 @@
+[ {
+  "uid" : "86b655f4b0a0e21f",
+  "name" : "When I landed to the cricinfo home page",
+  "time" : {
+    "start" : 1578913126744,
+    "stop" : 1578913126745,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "4dd6f37eb6245ce0",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1578917829442,
+    "stop" : 1578917829442,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1068d977c8a91cdd",
+  "name" : "When I landed to the cricinfo home page",
+  "time" : {
+    "start" : 1578918635906,
+    "stop" : 1578918641870,
+    "duration" : 5964
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ddc3822bc44acafc",
+  "name" : "Given I'm a Cricinfo user and landed on the cricinfo home page",
+  "time" : {
+    "start" : 1578918314980,
+    "stop" : 0,
+    "duration" : -1578918314980
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "c2a2d4b09e378da8",
+  "name" : "Given I'm a Cricinfo user and landed on the cricinfo home page",
+  "time" : {
+    "start" : 1578917829441,
+    "stop" : 0,
+    "duration" : -1578917829441
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "a7612d258535a751",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1578918642918,
+    "stop" : 1578918642918,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d59a3d100b5b8f46",
+  "name" : "Then I expect key series module should be displayed (undefined step)",
+  "time" : {
+    "start" : 1578917829442,
+    "stop" : 1578917829442,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "32876af215c5fe19",
+  "name" : "Given I'm a Cricinfo user",
+  "time" : {
+    "start" : 1578913126744,
+    "stop" : 1578913126744,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "53ae90272ae5925a",
+  "name" : "Then I expect the title should match",
+  "time" : {
+    "start" : 1578918641870,
+    "stop" : 1578918642917,
+    "duration" : 1047
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5c70bcdf97c3ac3",
+  "name" : "Given I'm a Cricinfo user",
+  "time" : {
+    "start" : 1578918635538,
+    "stop" : 1578918635906,
+    "duration" : 368
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c22465e22b5f308a",
+  "name" : "Then I expect key series module should be displayed",
+  "time" : {
+    "start" : 1578917829441,
+    "stop" : 0,
+    "duration" : -1578917829441
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "7773fada1d7b85b9",
+  "name" : "Given I'm a Cricinfo user and landed on the cricinfo home page (undefined step)",
+  "time" : {
+    "start" : 1578917829441,
+    "stop" : 1578917829441,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3eaa5d2f60583cd4",
+  "name" : "Given I'm a Cricinfo user and landed on the cricinfo home page (undefined step)",
+  "time" : {
+    "start" : 1578918314980,
+    "stop" : 1578918314980,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]

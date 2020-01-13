@@ -1,0 +1,90 @@
+{
+  "uid" : "c2a2d4b09e378da8",
+  "name" : "Given I'm a Cricinfo user and landed on the cricinfo home page",
+  "fullName" : "CricinfoHomePage LHS and RHS tests: Verify key series module displayed.Given I'm a Cricinfo user and landed on the cricinfo home page",
+  "historyId" : "f4795320a2ac63ab80c4aab99df050b4",
+  "time" : {
+    "start" : 1578917829441,
+    "stop" : 0,
+    "duration" : -1578917829441
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "unknown",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify key series module displayed"
+  }, {
+    "name" : "testClass",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify key series module displayed"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I'm a Cricinfo user and landed on the cricinfo home page"
+  }, {
+    "name" : "package",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify key series module displayed"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "44c91c7e24b2ec67",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1578917770300,
+        "stop" : 0,
+        "duration" : -1578917770300
+      }
+    }, {
+      "uid" : "d2d2e3e486b72b4c",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1578917638024,
+        "stop" : 0,
+        "duration" : -1578917638024
+      }
+    }, {
+      "uid" : "56d0c421e8bf246f",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1578917562585,
+        "stop" : 0,
+        "duration" : -1578917562585
+      }
+    }, {
+      "uid" : "d1a1dca7cef4de90",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1578917442814,
+        "stop" : 0,
+        "duration" : -1578917442814
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c2a2d4b09e378da8.json",
+  "parameterValues" : [ "chrome" ]
+}

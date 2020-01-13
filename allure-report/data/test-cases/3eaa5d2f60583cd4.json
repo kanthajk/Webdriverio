@@ -1,0 +1,93 @@
+{
+  "uid" : "3eaa5d2f60583cd4",
+  "name" : "Given I'm a Cricinfo user and landed on the cricinfo home page (undefined step)",
+  "fullName" : "CricinfoHomePage LHS and RHS tests: Verify Cricinfo Home page title.Given I'm a Cricinfo user and landed on the cricinfo home page (undefined step)",
+  "historyId" : "1de3e0611fa0016de62499a04d2b014f",
+  "time" : {
+    "start" : 1578918314980,
+    "stop" : 1578918314980,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify Cricinfo Home page title"
+  }, {
+    "name" : "testClass",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify Cricinfo Home page title"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I'm a Cricinfo user and landed on the cricinfo home page (undefined step)"
+  }, {
+    "name" : "package",
+    "value" : "CricinfoHomePage LHS and RHS tests: Verify Cricinfo Home page title"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "feaba415d59aba9c",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1578917829435,
+        "stop" : 1578917829435,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "458adecc648f87ef",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1578917770292,
+        "stop" : 1578917770292,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "54b62c325064f3d7",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1578917638017,
+        "stop" : 1578917638017,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8136f3489914d317",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1578917562577,
+        "stop" : 1578917562577,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "6712858a83c98521",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1578917442805,
+        "stop" : 1578917442805,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3eaa5d2f60583cd4.json",
+  "parameterValues" : [ ]
+}

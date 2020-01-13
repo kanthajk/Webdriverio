@@ -1,0 +1,26 @@
+{
+  "total" : 2,
+  "items" : [ {
+    "uid" : "7b8957c8a8c809543f8d932b52a52633",
+    "name" : "CricinfoHomePage LHS and RHS tests: Verify Cricinfo Home page title",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 4,
+      "unknown" : 1,
+      "total" : 6
+    }
+  }, {
+    "uid" : "622b65378d9c58dcb7976ddb386fb110",
+    "name" : "CricinfoHomePage LHS and RHS tests: Verify key series module displayed",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 4,
+      "passed" : 1,
+      "unknown" : 2,
+      "total" : 7
+    }
+  } ]
+}
